@@ -6,7 +6,7 @@ I try to add page number on pdf page. The prefer text postion is the center of t
 For some of my PDF files, the code works. But for some, no. For example `blank.pdf` which is exported from a blank file form [Typora 0.9.81(beta)](https://typora.io/) on Windows 7 64 bits. 
 
 ## bug 1
-The text is flipped no matter I use `insertText` or `insertTextbox` as you can see on ![flipped_text.png](flipped_text.png) .
+The text, which should be "page 1", is flipped no matter I use `insertText` or `insertTextbox` as you can see on ![flipped_text.png](flipped_text.png) .
 
 ## bug 2
 And what is more, the text is not located around the center.
